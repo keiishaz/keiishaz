@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Keisha Azzahra Anindya</h1>
-<h2 align="center">Aspiring Fullstack Developer | Passionate about clean and structured web applications</h2>
-<h3 align="center">Currently an undergraduate student in Information Systems at Universitas Bengkulu, I enjoy building web applications that are not only functional but also clean and well-structured. I’m especially drawn to backend development using Laravel, and I’m actively expanding into fullstack development to better understand the complete workflow from database design to frontend integration.</h3>
+<h1>Hi 👋, I'm Keisha Azzahra Anindya</h1>
+<h2>Aspiring Fullstack Developer | Passionate about clean and structured web applications</h2>
+<h3>Currently an undergraduate student in Information Systems at Universitas Bengkulu, I enjoy building web applications that are not only functional but also clean and well-structured. I’m especially drawn to backend development using Laravel, and I’m actively expanding into fullstack development to better understand the complete workflow from database design to frontend integration.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
