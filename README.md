@@ -14,3 +14,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keiishaz&show_icons=true&locale=en&layout=compact" alt="keiishaz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keiishaz&show_icons=true&locale=en" alt="keiishaz" /></p>
+
+### 📊 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keiishaz/keiishaz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keiishaz/keiishaz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/keiishaz/keiishaz/output/pacman-contribution-graph.svg">
+</picture>
